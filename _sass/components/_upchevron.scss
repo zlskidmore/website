@@ -1,0 +1,10 @@
+.upchevron {
+  color: #0090B2;
+  &:hover {
+    color: #FF7A00;
+    font-size: 2em;
+  }
+  &:active {
+    color: #B25500;
+  }
+}
