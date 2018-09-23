@@ -1,5 +1,6 @@
 # Site settings
-title:
+title: CIViC PM
+slogan: Blueprints for Precision Medicine
 email:
 author:
 description:
@@ -8,4 +9,8 @@ url:
 # Build settings
 permalink: :title/
 sass:
-  sass_dir: assets
+  sass_dir: _sass
+include: ['_sass']
+
+# favicons
+favicon-32x32: favicon_32x32.png

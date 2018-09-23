@@ -1,2 +1,2 @@
-# website
-Personal website
+# CIViC Precision Medicine Pipeline
+
