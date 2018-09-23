@@ -1,8 +1,8 @@
 # Site settings
-title: CIViC PM
-slogan: Blueprints for Precision Medicine
+title: Skidmore
+slogan: Personal Website
 email:
-author:
+author: Zachary Skidmore
 description:
 url:
 
@@ -11,6 +11,9 @@ permalink: :title/
 sass:
   sass_dir: _sass
 include: ['_sass']
+markdown: kramdown
+kramdown:
+  auto_ids: true
 
 # favicons
 favicon-32x32: favicon_32x32.png
