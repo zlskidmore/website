@@ -1,6 +1,6 @@
 ---
 layout: posts
 header:
-  bgimage: /assets/images/feature/header.png
+  bgimage: /assets/images/feature/feature1.png
 permalink: /posts/
 ---
