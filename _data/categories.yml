@@ -1,0 +1,8 @@
+- name: bioinformatics
+  url: /assets/images/categories/bioinformatics.png
+
+- name: math
+  url: /assets/images/categories/math.png
+
+- name: philosophy
+  url: /assets/images/categories/philosophy.png
